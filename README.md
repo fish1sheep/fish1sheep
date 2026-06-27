@@ -22,12 +22,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fish1sheep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish1sheep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fish1sheep&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fish1sheep&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fish1sheep&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fish1sheep&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
