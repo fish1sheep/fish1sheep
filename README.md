@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm fish1sheep
 
-🎓 M.Sc. Student @ Northeastern University (NEU) · Robotics Science & Engineering
-🔬 Research Focus: **3D Reconstruction · Computer Vision**
+🎓 **Master’s Student at Northeastern University, China · Robotics Science & Engineering 🔬**
+**Research Focus: 3D Reconstruction · Computer Vision**
 
 ---
 
